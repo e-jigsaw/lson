@@ -8,4 +8,4 @@ a_dict: {
   key: 'value'
 }
 a_string: 'some string'
-another_string: \anotherstring
+another_string: \\anotherstring

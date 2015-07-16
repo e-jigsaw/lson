@@ -6,7 +6,7 @@ Uses the LiveScript parser to do the actual parsing. Will not execute code.
 
 ## Install
 
-    npm install lson
+    npm install @jigsaw/lson
 
 ## API
 
