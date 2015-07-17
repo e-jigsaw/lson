@@ -1,5 +1,5 @@
 require! {
-  livescript: {compile}
+  \atom-livescript : {compile}
   \cson-safe : {parse}
 }
 

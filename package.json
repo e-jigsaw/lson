@@ -1,11 +1,11 @@
 {
-  "name": "@jigsaw/lson",
-  "version": "2.0.2",
+  "name": "atom-lson",
+  "version": "0.0.1",
   "description": "LiveScript Object Notation Parser",
   "main": "build/index.js",
   "dependencies": {
-    "cson-safe": "^1.0.5",
-    "livescript": "^1.4.0"
+    "atom-livescript": "0.0.1",
+    "cson-safe": "^1.0.5"
   },
   "scripts": {
     "test": "lsc test/index.ls",
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/e-jigsaw/lson",
   "devDependencies": {
+    "livescript": "^1.4.0",
     "tape": "^4.0.0"
   }
 }
